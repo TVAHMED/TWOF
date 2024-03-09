@@ -192,7 +192,6 @@ def my_tool_security():
     print("\t  Facebook : MUHAMMAD HAMID KHAWAJA")
     print("\t  Fb page  : Hamii Hbf Cammands")
     print("\t  Github   : Hamii-king-06")
-    try:
     except(requests.exceptions.ConnectionError):
         print(red," please on internet wifi/data ")
         exit()
