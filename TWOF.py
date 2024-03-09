@@ -186,14 +186,11 @@ twf = []
 
 
 
-def my_tool_security():
     os.system("clear")
     print(logo)
     print("\t  Facebook : MUHAMMAD HAMID KHAWAJA")
     print("\t  Fb page  : Hamii Hbf Cammands")
     print("\t  Github   : Hamii-king-06")
-        exit()
-    except(FileNotFoundError):
         os.system('termux-setup-storage')
         print("\t Welcome To HBF Tool ....")
         time.sleep(2)
