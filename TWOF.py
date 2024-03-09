@@ -182,11 +182,7 @@ def checks(ok,cp):
 loop = 0
 cp = []
 ok = []
-twf = []
-
-
-
-    os.system("clear")
+twf =
     print(logo)
     print("\t  Facebook : MUHAMMAD HAMID KHAWAJA")
     print("\t  Fb page  : Hamii Hbf Cammands")
