@@ -193,7 +193,6 @@ def my_tool_security():
     print("\t  Fb page  : Hamii Hbf Cammands")
     print("\t  Github   : Hamii-king-06")
     try:
-        token_one=open(key_save_one,'r').read()
     except(requests.exceptions.ConnectionError):
         print(red," please on internet wifi/data ")
         exit()
